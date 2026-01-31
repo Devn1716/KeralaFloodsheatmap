@@ -1,0 +1,8 @@
+ipykernel
+pandas
+numpy
+matplotlib
+folium
+kagglehub
+streamlit
+streamlit-folium
