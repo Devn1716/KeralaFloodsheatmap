@@ -6,3 +6,5 @@ folium
 kagglehub
 streamlit
 streamlit-folium
+altair 
+vega_datasets
